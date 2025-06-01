@@ -1,6 +1,8 @@
 # 💫 About Me:
-Meu nome é Samuel, tenho 17 anos e sou estudante do curso técnico em análise e desenvolvimento de sistemas na Escola Polivalente de Barbacena - MG.
-Atualmente estou estudando Django e python juntamente com HTML, Css e começando no JavaScript 
+Meu nome é Samuel, tenho 17 anos e sou estudante do curso técnico em análise e desenvolvimento de sistemas na Escola Polivalente de Barbacena - MG -------
+Também tenho um conhecimento básico sobre Hacking e pentester ético.
+Atualmente estou estudando Django e python juntamente com HTML, Css e começando no JavaScript e no desenvolvimento de Apps mobile📱 
+Desde cedo a paixão por tecnologia me acompanha 👨‍💻
 
 
 ## 🌐 Socials:
